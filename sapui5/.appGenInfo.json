@@ -1,0 +1,24 @@
+{
+  "generationParameters": {
+    "generationDate": "Tue Sep 09 2025 09:02:07 GMT+0000 (Coordinated Universal Time)",
+    "generatorPlatform": "CLI",
+    "serviceType": "None",
+    "metadataFilename": "",
+    "serviceUrl": "N/A",
+    "appName": "sapui5",
+    "appTitle": "Invoices",
+    "appDescription": "Invoices List",
+    "appNamespace": "logaligroup",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.140.0",
+    "enableCodeAssist": false,
+    "enableEslint": false,
+    "enableTypeScript": true,
+    "showMockDataInfo": false,
+    "generatorVersion": "1.18.6",
+    "template": "Basic",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```"
+  }
+}
