@@ -1,7 +1,6 @@
 import Controller from 'sap/ui/core/mvc/Controller';
 import JSONModel from 'sap/ui/model/json/JSONModel';
 import InvoicesFormatter from '../model/InvoicesFormatter';
-import type Event from 'sap/ui/base/Event';
 import Filter from 'sap/ui/model/Filter';
 import FilterOperator from 'sap/ui/model/FilterOperator';
 import type ListBinding from 'sap/ui/model/ListBinding';

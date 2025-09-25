@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@sap-ux/ui5-middleware-fe-mockserver": "^2.3.1"
+  }
+}
