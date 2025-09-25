@@ -8,8 +8,15 @@
             <pages>
                 <Page id="page"
                     title="{i18n>appTitle}">
+                    <headerContent>
+                        <Button id="_IDGenButton2"
+                                icon="sap-icon://action"
+                                press=".onOpenDialogHeader"
+                                class="sapUiSmallMarginEnd"/>
+                    </headerContent>
                     <content>
                         <mvc:XMLView id="_IDGenXMLView" viewName="logaligroup.sapui5.view.HelloPanel"></mvc:XMLView>
+                        <mvc:XMLView id="_IDGenXMLView1" viewName="logaligroup.sapui5.view.InvoicesList"></mvc:XMLView>
                     </content>
                 </Page>
             </pages>
